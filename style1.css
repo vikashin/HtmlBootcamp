@@ -1,0 +1,26 @@
+.box{
+    border:1px solid lightgray;
+    width:400px;
+    /* padding:20px; */
+    margin:20px auto;
+    font-size: 30px;
+    border-radius: 10px;
+}
+
+.box-body{
+ padding:20px;
+}
+
+.line{
+    
+    border-top:1px solid lightgray;
+    padding:20px;
+}
+
+.btn{
+    background-color: white;
+    border: none;
+    font-size: 20px;
+    color:blue;
+}
+

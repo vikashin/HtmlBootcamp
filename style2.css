@@ -1,0 +1,31 @@
+.box{
+    /* border:1px solid lightgray; */
+    width:400px;
+    margin:20px auto;
+}
+
+.input-box{
+    padding:20px;
+    margin:20px auto;
+    text-align: center;
+    
+}
+
+.input-filed{
+    font-size: 15px;
+    border-radius: 10px;
+    width:250px;
+    height:30px;
+}
+
+.btn-filed{
+
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    width:200px;
+    height:30px;
+    border-radius: 20px;
+    border:none;
+    
+}
